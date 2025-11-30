@@ -61,5 +61,8 @@
     "quickLinks": "Quick Links",
     "contact": "Contact",
     "copyright": "© 2025 Neurino. All rights reserved."
+  },
+  "snackbar": {
+    "languageChanged": "Language changed to"
   }
 }

@@ -101,5 +101,8 @@
     "quickLinks": "Rýchle odkazy",
     "contact": "Kontakt",
     "copyright": "© 2025 Neurino. Všetky práva vyhradené."
+  },
+  "snackbar": {
+    "languageChanged": "Jazyk zmenený na"
   }
 }
