@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "therapists": "Therapists",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Helping children grow",
+    "subtitle": "through movement",
+    "description": "Neurino provides specialized pediatric physiotherapy services to help children reach their full potential through therapeutic movement and care.",
+    "cta": "Contact Us"
+  },
+  "about": {
+    "title": "About Neurino",
+    "description": "We are dedicated to providing comprehensive pediatric physiotherapy services in Slovakia. Our experienced team of professionals works with children of all ages to improve their physical development, motor skills, and overall quality of life through evidence-based therapeutic interventions.",
+    "meetTherapists": "Meet Our Therapists →"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Specialized pediatric physiotherapy treatments designed to help children thrive",
+    "preview": "We offer specialized physiotherapy treatments tailored to children's unique needs.",
+    "viewAll": "View All Services",
+    "learnMore": "Learn More →",
+    "pediatric": {
+      "title": "Pediatric Physiotherapy",
+      "description": "Comprehensive assessment and treatment for children with developmental delays, neurological conditions, orthopedic issues, and movement disorders."
+    },
+    "craniosacral": {
+      "title": "Craniosacral Therapy",
+      "description": "Gentle, hands-on therapy that supports the body's natural healing processes and helps relieve tension in the central nervous system."
+    }
+  },
+  "therapists": {
+    "title": "Our Therapists",
+    "subtitle": "Meet our experienced team of pediatric physiotherapy professionals dedicated to helping children grow through movement"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch to learn more about our pediatric physiotherapy services",
+    "getInTouch": "Get In Touch",
+    "sendMessage": "Send Us a Message",
+    "location": "Location",
+    "phone": "Phone",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "placeholder": {
+      "name": "Your full name",
+      "email": "your.email@example.com",
+      "message": "Tell us about your child's needs and how we can help..."
+    },
+    "submit": "Send Message",
+    "required": "* Required fields. Your information will be used to respond to your inquiry.",
+    "mapsPlaceholder": "Google Maps embed placeholder",
+    "locationDetail": "Location in Slovakia"
+  },
+  "footer": {
+    "description": "Helping children grow through movement. Professional pediatric physiotherapy services.",
+    "basedIn": "Based in Slovakia",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "copyright": "© 2025 Neurino. All rights reserved."
+  }
+}

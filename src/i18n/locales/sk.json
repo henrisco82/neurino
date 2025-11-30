@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Domov",
+    "services": "Služby",
+    "therapists": "Terapeuti",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Pomáhame deťom rásť",
+    "subtitle": "cez pohyb",
+    "description": "Neurino poskytuje špecializované služby pediatrickej fyzioterapie, ktoré pomáhajú deťom dosiahnuť ich plný potenciál prostredníctvom terapeutického pohybu a starostlivosti.",
+    "cta": "Kontaktujte nás"
+  },
+  "about": {
+    "title": "O Neurino",
+    "description": "Sme oddaní poskytovaniu komplexných služieb pediatrickej fyzioterapie na Slovensku. Náš skúsený tím profesionálov pracuje s deťmi všetkých vekových skupín na zlepšení ich fyzického vývoja, motorických schopností a celkovej kvality života prostredníctvom vedecky podložených terapeutických intervencií.",
+    "meetTherapists": "Spoznajte našich terapeutov →"
+  },
+  "services": {
+    "title": "Naše služby",
+    "subtitle": "Špecializované liečby pediatrickej fyzioterapie navrhnuté tak, aby pomáhali deťom prosperovať",
+    "preview": "Ponúkame špecializované fyzioterapeutické liečby prispôsobené jedinečným potrebám detí.",
+    "viewAll": "Zobraziť všetky služby",
+    "learnMore": "Ďalšie informácie →",
+    "pediatric": {
+      "title": "Pediatrická fyzioterapia",
+      "description": "Komplexné hodnotenie a liečba detí s vývojovými oneskoreniami, neurologickými stavmi, ortopedickými problémami a poruchami pohybu.",
+      "fullDescription": [
+        "Naše služby pediatrickej fyzioterapie sú navrhnuté na riešenie širokého spektra vývojových, neurologických a muskuloskeletálnych stavov u detí. Pracujeme s novorodencami, malými deťmi a deťmi všetkých vekových skupín na zlepšenie ich fyzickej funkcie a nezávislosti.",
+        "Prostredníctvom komplexného hodnotenia a individualizovaných liečebných plánov pomáhame deťom dosiahnuť ich vývojové míľniky, zlepšiť motorické schopnosti a zvýšiť celkovú kvalitu života. Náš prístup založený na dôkazoch kombinuje hru s klinickou odbornosťou, aby bola liečba príťažlivá a efektívna.",
+        "Či už vaše dieťa potrebuje pomoc s vývojovými oneskoreniami, detskou mozgovou obrnou, spinálnou bifidou alebo inými stavmi, naši skúsení terapeuti poskytujú starostlivú starostlivosť v podporujúcom prostredí."
+      ]
+    },
+    "craniosacral": {
+      "title": "Kraniálna terapia",
+      "description": "Jemná manuálna terapia, ktorá podporuje prirodzené hojivé procesy tela a pomáha uvoľniť napätie v centrálnej nervovej sústave.",
+      "fullDescription": [
+        "Kraniálna terapia je jemný, manuálny prístup, ktorý podporuje prirodzené hojivé procesy tela. Táto subtílna terapia sa zameriava na kraniálny systém, ktorý zahŕňa membrány a mozgovomiechovú tekutinu, ktoré chránia a obklopujú mozog a miechu.",
+        "Prostredníctvom jemného dotyku pomáhajú naši terapeuti uvoľniť obmedzenia v kraniálnom systéme, podporiť lepší tok mozgovomiechovej tekutiny a podporiť seba-hojivé mechanizmy tela. Táto terapia je obzvlášť prospešná pre deti, ktoré prežívajú rôzne stavy alebo jednoducho potrebujú podporu pre optimálny neurologický vývoj.",
+        "Jemná povaha kraniálnej terapie ju robí vhodnou pre deti všetkých vekových skupín, od novorodencov po dospievajúcich. Často sa používa spolu s inými terapiami na zvýšenie celkových výsledkov liečby a podporu relaxácie a pohody."
+      ]
+    }
+  },
+  "therapists": {
+    "title": "Naši terapeuti",
+    "subtitle": "Spoznajte náš skúsený tím profesionálov pediatrickej fyzioterapie oddaných pomoci deťom rásť cez pohyb",
+    "mgrHedviga": {
+      "name": "Mgr. Hedviga Maksimcuk",
+      "title": "Vedúca fyzioterapeutka",
+      "bio": "Hedviga má viac ako 10 rokov skúseností v špecializácii na pediatrickú fyzioterapiu. Má doktorát z fyzikálnej terapie a je certifikovaná v pediatrickej neurovývojovej liečbe."
+    },
+    "andrea": {
+      "name": "Andrea Zsdral",
+      "title": "Masérka",
+      "bio": "Andrea sa špecializuje na masáže pre deti s neurologickými ochoreniami, ako je detská mozgová obrna a spina bifida. Používa na základe dôkazov techniky na zlepšenie funkcie a nezávislosti."
+    },
+    "nikoleta": {
+      "name": "Nikoleta Vegh",
+      "title": "Masérka",
+      "bio": "Niki sa špecializuje na masáže pre deti s neurologickými ochoreniami, ako je detská mozgová obrna a spina bifida. Používa na základe dôkazov techniky na zlepšenie funkcie a nezávislosti."
+    },
+    "micheala": {
+      "name": "Micheala Zlamalova",
+      "title": "Fyzioterapeutka",
+      "bio": "Micheala má odbornosť v športovej fyzioterapii prispôsobenej pediatrickým pacientom. Pomáha mladým športovcom zotaviť sa zo zranení a zlepšiť ich výkon prostredníctvom špecializovaného tréningu."
+    },
+    "denisa": {
+      "name": "Denisa Unah",
+      "title": "Fyzioterapeutka",
+      "bio": "Denisa sa špecializuje na liečbu detí s neurologickými ochoreniami, ako je detská mozgová obrna a spina bifida. Používa na základe dôkazov techniky na zlepšenie funkcie a nezávislosti."
+    },
+    "iveta": {
+      "name": "Iveta Husvetheova",
+      "title": "Masérka",
+      "bio": "Iveta sa špecializuje na masáže pre deti s neurologickými ochoreniami, ako je detská mozgová obrna a spina bifida. Používa na základe dôkazov techniky na zlepšenie funkcie a nezávislosti."
+    }
+  },
+  "contact": {
+    "title": "Kontaktujte nás",
+    "subtitle": "Spojte sa s nami, aby ste sa dozvedeli viac o našich službách pediatrickej fyzioterapie",
+    "getInTouch": "Spojte sa s nami",
+    "sendMessage": "Pošlite nám správu",
+    "location": "Poloha",
+    "phone": "Telefón",
+    "name": "Meno",
+    "email": "Email",
+    "message": "Správa",
+    "placeholder": {
+      "name": "Vaše celé meno",
+      "email": "vas.email@priklad.sk",
+      "message": "Povedzte nám o potrebách vášho dieťaťa a ako môžeme pomôcť..."
+    },
+    "submit": "Odoslať správu",
+    "required": "* Povinné polia. Vaše informácie budú použité na odpoveď na váš dopyt.",
+    "mapsPlaceholder": "Zástupný symbol Google Maps",
+    "locationDetail": "Poloha na Slovensku"
+  },
+  "footer": {
+    "description": "Pomáhame deťom rásť cez pohyb. Profesionálne služby pediatrickej fyzioterapie.",
+    "basedIn": "Sídlo na Slovensku",
+    "quickLinks": "Rýchle odkazy",
+    "contact": "Kontakt",
+    "copyright": "© 2025 Neurino. Všetky práva vyhradené."
+  }
+}
